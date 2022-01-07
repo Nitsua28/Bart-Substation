@@ -14,7 +14,7 @@
 ---
 
 ## 1. Description
-The CO2 control panel gives the new hires at BART the ability to simulate various situations. They are allowed to put the electricity breakers in a remote/local state as well as being able to trip/reset them. It also alerts the trainee when the panel is in a dangerous state. 
+The Virtual CO2 control panel gives the new hires at BART the ability to simulate various situations in order to prevent real life fires on site. The electricity breakers can be put in a remote/local state to be able to access them remotely or locally on the panel itself and this app has the ability to simulate that.  You can simulate opening and closing control switches depending on which are already open or not and trip/reset the lockout relays. This App also simulates an Overcurrent for a control switch.  It also alerts the trainee when the panel is in a dangerous state. 
 ...
 
 
